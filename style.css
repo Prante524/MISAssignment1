@@ -22,17 +22,17 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
   }
-  
+  */
   /* Change the link color to #111 (black) on hover */
-  li a:hover {
+ /* li a:hover {
     background-color: #111;
   }
-
+*/
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #e5e2e9;
     color: #333;
 }
 
@@ -51,3 +51,14 @@ body {
 }
 
 */
+/* 
+p {
+  border:1px solid rgb(176, 216, 16) ;
+  margin: 5%;
+  padding: none;
+  background-color: rgb(8, 156, 124);
+  font-size: 14px;
+  color: rgb(25, 25, 26);
+ 
+
+}*/
